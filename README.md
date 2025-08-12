@@ -42,19 +42,21 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-
-
+<img width="574" height="266" alt="Screenshot at 2025-08-12 12-24-00" src="https://github.com/user-attachments/assets/7ceb73f5-b919-4632-a3c1-e735151f18de" />
 
 cat < file2
-## OUTPUT
-
+## Output
+<img width="489" height="345" alt="Screenshot at 2025-08-12 12-26-56" src="https://github.com/user-attachments/assets/32949c37-fcb0-43ee-a84a-4f774d1ec911" />
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
+<img width="619" height="125" alt="OUTPUT 1" src="https://github.com/user-attachments/assets/90fd1b0c-9315-481f-a106-41c380dd8652" />
+
  
 comm file1 file2
  ## OUTPUT
+
 
  
 diff file1 file2
